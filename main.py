@@ -21,6 +21,8 @@ stylesheets = [
 
 app = dash.Dash(__name__, external_stylesheets=stylesheets)
 
+app.title = "Corona DashBoard"
+
 server = app.server
 
 bubble_map = px.scatter_geo(
