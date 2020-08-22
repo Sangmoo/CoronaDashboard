@@ -10,5 +10,6 @@ Using Pip Package
 - virtualenvwrapper-win
 - jupyterlab
 - jupyterthemes - monokai
+- gunicorn==20.0.4
 
 Data Ref - https://github.com/CSSEGISandData/COVID-19
