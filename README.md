@@ -13,3 +13,4 @@ Using Pip Package
 - gunicorn==20.0.4
 
 Data Ref - https://github.com/CSSEGISandData/COVID-19
+Data 20.01.22 ~ 20.08.20
