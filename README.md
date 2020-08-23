@@ -14,3 +14,5 @@ Using Pip Package
 
 Data Ref - https://github.com/CSSEGISandData/COVID-19
 Data 20.01.22 ~ 20.08.20
+
+Deploy Heroku - https://sangmoo-corona-dashboard.herokuapp.com/
